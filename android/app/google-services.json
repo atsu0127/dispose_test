@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "783610146926",
+    "project_id": "disposetest-26d48",
+    "storage_bucket": "disposetest-26d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783610146926:android:bafa81d3024a2d2e3b767f",
+        "android_client_info": {
+          "package_name": "com.example.dispose_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783610146926-eifcajfak5tv0c4n72r85u6looqe9ndr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9lZbQwtMDYk8vbK3NxAYZ28MoU7Tpy60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783610146926-eifcajfak5tv0c4n72r85u6looqe9ndr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783610146926-agfsonpaiir99giss85c1d0v41kl8tfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.disposeTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
